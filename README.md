@@ -1,8 +1,16 @@
 # AlexandreRocha
-## Oiii eu sou a Rafaella Ballerini, criadora de conteúdo de programação e tecnologia!
+##💻 Estudante de Ciência de Dados | Explorando o mundo dos dados e da tecnologia!
 
-Pessoal que veio atrás do **Github Stats:** a API provavelmente saiu do ar nesse período,
-mas você pode adicionar a sua própria, seguindo esse [tutorial](https://github.com/anuraghazra/github-readme-stats/blob/master/readme.md#deploy-on-your-own-vercel-instance)
+👋 Olá! Sou um estudante apaixonado por resolver problemas com base em dados. Atualmente, estou cursando Tecnólogo em Ciência de Dados e aprendendo ferramentas e técnicas essenciais para me destacar na área.
+
+🌟 Também faço parte do programa Oracle Next Education (ONE), com foco na trilha de Data Science, e estou sempre em busca de desafios práticos para aplicar e expandir meus conhecimentos.
+
+📊 Áreas de interesse:
+
+Análise de Dados
+Visualização de Dados
+Machine Learning
+Big Data
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
