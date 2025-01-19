@@ -1,4 +1,4 @@
-# AlexandreRocha
+# Alexandre Rocha
 ##💻 Estudante de Ciência de Dados | Explorando o mundo dos dados e da tecnologia!
 
 👋 Olá! Sou um estudante apaixonado por resolver problemas com base em dados. Atualmente, estou cursando Tecnólogo em Ciência de Dados e aprendendo ferramentas e técnicas essenciais para me destacar na área.
