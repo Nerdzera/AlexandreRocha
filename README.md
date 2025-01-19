@@ -7,10 +7,7 @@
 
 📊 Áreas de interesse:
 
-Análise de Dados
-Visualização de Dados
-Machine Learning
-Big Data
+Análise de Dados Visualização de Dados Machine Learning Big Data
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
